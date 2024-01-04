@@ -1,0 +1,376 @@
+Number,Technology,Material,Intensity,Year
+27,Offshore,Aluminum,370,2012
+1,Offshore,Aluminum,420,2007
+66,Offshore,Aluminum,560,2018
+69,Offshore,Aluminum,300,2019
+69,Offshore,Aluminum,700,2019
+69,Offshore,Aluminum,3100,2019
+69,Offshore,Aluminum,5300,2019
+78,Offshore,Aluminum,3000,2013
+78,Offshore,Aluminum,260,2010
+78,Offshore,Aluminum,1060,2010
+78,Offshore,Aluminum,3930,2010
+78,Offshore,Aluminum,2063,2019
+78,Offshore,Boron,7,2017
+78,Offshore,Chromium,450,2013
+78,Offshore,Chromium,294,2015
+78,Offshore,Chromium,372,2019
+84,Offshore,Chromium,293.56,2015
+27,Offshore,Copper,10000,2013
+1,Offshore,Copper,2750,2007
+11,Offshore,Copper,10000,2012
+19,Offshore,Copper,2440,2013
+19,Offshore,Copper,2514.285714,2013
+19,Offshore,Copper,1566.666667,2013
+19,Offshore,Copper,1570.833333,2013
+19,Offshore,Copper,5560,2013
+19,Offshore,Copper,5642.857143,2013
+19,Offshore,Copper,4916.666667,2013
+19,Offshore,Copper,4895.833333,2013
+19,Offshore,Copper,2520,2013
+19,Offshore,Copper,3057.142857,2013
+19,Offshore,Copper,891.6666667,2013
+19,Offshore,Copper,1066.666667,2013
+45,Offshore,Copper,4000,2016
+62,Offshore,Copper,1143,2012
+62,Offshore,Copper,10000,2013
+69,Offshore,Copper,1800,2019
+69,Offshore,Copper,2000,2019
+69,Offshore,Copper,4800,2019
+69,Offshore,Copper,5900,2019
+78,Offshore,Copper,20000,2013
+78,Offshore,Copper,11500,2012
+78,Offshore,Copper,4500,2016
+78,Offshore,Copper,1484,2015
+78,Offshore,Copper,9371,2019
+66,Offshore,Copper,11500,2018
+66,Offshore,Copper,15800,2018
+84,Offshore,Copper,1484,2015
+27,Offshore,Dysprosium,22,2011
+52,Offshore,Dysprosium,33,2013
+13,Offshore,Dysprosium,22,2010
+78,Offshore,Dysprosium,3,2013
+78,Offshore,Dysprosium,25,2017
+78,Offshore,Dysprosium,10,2016
+78,Offshore,Dysprosium,24,2013
+78,Offshore,Dysprosium,28,2013
+78,Offshore,Dysprosium,10,2016
+78,Offshore,Dysprosium,13,2016
+78,Offshore,Dysprosium,14,2016
+78,Offshore,Dysprosium,13,2015
+78,Offshore,Dysprosium,13,2016
+78,Offshore,Dysprosium,18,2011
+78,Offshore,Dysprosium,22,2015
+78,Offshore,Dysprosium,16,2019
+66,Offshore,Dysprosium,4.86,2018
+66,Offshore,Dysprosium,14.58,2018
+84,Offshore,Dysprosium,21.56,2015
+27,Offshore,Lead,6720,2013
+1,Offshore,Lead,3790,2007
+13,Offshore,Lead,6720,2000
+84,Offshore,Molybdenum,75.315,2015
+27,Offshore,Neodymium,124,2011
+1,Offshore,Neodymium,150,2006
+52,Offshore,Neodymium,186,2011
+13,Offshore,Neodymium,124,2010
+62,Offshore,Neodymium,119,2012
+62,Offshore,Neodymium,198,2015
+72,Offshore,Neodymium,175.5,2018
+72,Offshore,Neodymium,162.4,2013
+72,Offshore,Neodymium,164.3,2013
+72,Offshore,Neodymium,165.7,2013
+72,Offshore,Neodymium,124,2011
+72,Offshore,Neodymium,186,2011
+72,Offshore,Neodymium,180,2013
+72,Offshore,Neodymium,198,2013
+72,Offshore,Neodymium,186,2010
+72,Offshore,Neodymium,116,2010
+72,Offshore,Neodymium,54,2010
+72,Offshore,Neodymium,171,2020
+72,Offshore,Neodymium,102,2020
+72,Offshore,Neodymium,34,2020
+72,Offshore,Neodymium,27,2040
+72,Offshore,Neodymium,83,2040
+72,Offshore,Neodymium,184,2040
+72,Offshore,Neodymium,170.4,2019
+72,Offshore,Neodymium,216,2011
+78,Offshore,Neodymium,186,2011
+78,Offshore,Neodymium,203,2014
+78,Offshore,Neodymium,180,2013
+78,Offshore,Neodymium,41,2013
+78,Offshore,Neodymium,140,2016
+78,Offshore,Neodymium,187,2016
+78,Offshore,Neodymium,40,2013
+78,Offshore,Neodymium,43,2011
+78,Offshore,Neodymium,166,2014
+78,Offshore,Neodymium,150,2014
+78,Offshore,Neodymium,200,2016
+78,Offshore,Neodymium,195,2015
+78,Offshore,Neodymium,186,2017
+78,Offshore,Neodymium,151,2015
+78,Offshore,Neodymium,148,2019
+66,Offshore,Neodymium,60.92,2018
+66,Offshore,Neodymium,182.75,2018
+84,Offshore,Neodymium,150.92,2015
+27,Offshore,Nickel,111,2013
+13,Offshore,Nickel,111,2013
+66,Offshore,Nickel,111,2018
+84,Offshore,Nickel,376.57,2015
+84,Offshore,Niobium,37.657,2015
+78,Offshore,Praseodymium,35,2017
+78,Offshore,Praseodymium,31,2015
+78,Offshore,Praseodymium,33,2019
+84,Offshore,Praseodymium,30.8,2015
+27,Offshore,Steel,132000,2012
+1,Offshore,Steel,148000,2007
+69,Offshore,Steel,125000,2019
+69,Offshore,Steel,156000,2019
+69,Offshore,Steel,210000,2019
+69,Offshore,Steel,253000,2019
+78,Offshore,Steel,350000,2013
+78,Offshore,Steel,317000,2016
+78,Offshore,Steel,333500,2019
+66,Offshore,Steel,232670,2018
+66,Offshore,Steel,292100,2018
+78,Offshore,Terbium,7,2019
+78,Offshore,Terbium,6,2015
+84,Offshore,Terbium,6.16,2015
+78,Offshore,Vanadium,7000,2015
+84,Offshore,Vanadium,7000,2015
+1,Onshore,Aluminum,260,2007
+11,Onshore,Aluminum,370,2012
+66,Onshore,Aluminum,560,2018
+69,Onshore,Aluminum,300,2019
+69,Onshore,Aluminum,700,2019
+69,Onshore,Aluminum,3100,2019
+69,Onshore,Aluminum,5300,2019
+70,Onshore,Aluminum,260,2019
+78,Onshore,Aluminum,3000,2013
+78,Onshore,Aluminum,50,2010
+78,Onshore,Aluminum,260,2010
+78,Onshore,Aluminum,3530,2010
+78,Onshore,Aluminum,560,2013
+78,Onshore,Aluminum,830,2005
+78,Onshore,Aluminum,1372,2019
+78,Onshore,Boron,1,2017
+78,Onshore,Chromium,789,2017
+78,Onshore,Chromium,902,2013
+78,Onshore,Chromium,359,2015
+78,Onshore,Chromium,683,2019
+70,Onshore,Chromium,359,2019
+84,Onshore,Chromium,358.9,2015
+1,Onshore,Copper,1830,2007
+11,Onshore,Copper,2000,2012
+19,Onshore,Copper,2733.333333,2013
+19,Onshore,Copper,2520,2013
+19,Onshore,Copper,2500,2013
+19,Onshore,Copper,4800,2013
+19,Onshore,Copper,4608.695652,2013
+19,Onshore,Copper,5066.666667,2013
+19,Onshore,Copper,2242.424242,2013
+19,Onshore,Copper,2478.26087,2013
+19,Onshore,Copper,2333.333333,2013
+45,Onshore,Copper,4000,2016
+62,Onshore,Copper,1143,2012
+62,Onshore,Copper,4318,2011
+69,Onshore,Copper,1400,2019
+69,Onshore,Copper,1800,2019
+69,Onshore,Copper,3700,2019
+69,Onshore,Copper,6100,2019
+70,Onshore,Copper,2000,2019
+78,Onshore,Copper,1143,2013
+78,Onshore,Copper,3000,2017
+78,Onshore,Copper,4000,2016
+78,Onshore,Copper,2000,2010
+78,Onshore,Copper,2000,2013
+78,Onshore,Copper,2500,2011
+78,Onshore,Copper,3000,2011
+78,Onshore,Copper,1745,2009
+78,Onshore,Copper,1200,2012
+78,Onshore,Copper,5500,2012
+78,Onshore,Copper,4700,2016
+78,Onshore,Copper,1750,2009
+78,Onshore,Copper,1408,2005
+78,Onshore,Copper,2700,2012
+78,Onshore,Copper,2300,2016
+78,Onshore,Copper,1012,2015
+78,Onshore,Copper,2497,2019
+66,Onshore,Copper,2700,2018
+66,Onshore,Copper,7000,2018
+84,Onshore,Copper,1012,2015
+70,Onshore,Dysprosium,0.9,2019
+66,Onshore,Dysprosium,4.86,2018
+66,Onshore,Dysprosium,14.58,2018
+84,Onshore,Dysprosium,0.9,2015
+84,Onshore,Molybdenum,75.3,2015
+62,Onshore,Neodymium,41,2011
+70,Onshore,Neodymium,6.2,2019
+66,Onshore,Neodymium,60.92,2018
+66,Onshore,Neodymium,182.75,2018
+84,Onshore,Neodymium,6.2,2015
+13,Onshore,Nickel,111,2013
+70,Onshore,Nickel,111,2019
+66,Onshore,Nickel,111,2018
+84,Onshore,Nickel,376.6,2015
+84,Onshore,Niobium,37.7,2015
+70,Onshore,Praseodymium,1.3,2019
+78,Onshore,Praseodymium,4,2017
+78,Onshore,Praseodymium,1,2017
+78,Onshore,Praseodymium,3,2019
+84,Onshore,Praseodymium,1.3,2015
+1,Onshore,Steel,135000,2007
+11,Not defined,Steel,132000,2012
+69,Onshore,Steel,54000,2019
+69,Onshore,Steel,105000,2019
+69,Onshore,Steel,160000,2019
+69,Onshore,Steel,204000,2019
+70,Onshore,Steel,132000,2019
+78,Onshore,Steel,103000,2011
+78,Onshore,Steel,115000,2011
+78,Onshore,Steel,140000,2010
+78,Onshore,Steel,150000,2013
+78,Onshore,Steel,98000,2012
+78,Onshore,Steel,148000,2012
+78,Onshore,Steel,120000,2015
+78,Onshore,Steel,89840,2009
+78,Onshore,Steel,138000,2016
+78,Onshore,Steel,119985,2019
+66,Onshore,Steel,112670,2018
+66,Onshore,Steel,172100,2018
+78,Onshore,Terbium,1,2017
+84,Onshore,Terbium,0.3,2015
+78,Onshore,Vanadium,90,2015
+84,Onshore,Vanadium,90.4,2015
+67,Not defined,Aluminum,1060,2010
+1,Not defined,Copper,2000,2010
+67,Not defined,Copper,3000,2011
+15,Not defined,Copper,1142.9,2013
+52,Not defined,Copper,2000,2010
+11,Not defined,Copper,1570,2006
+45,Not defined,Copper,1143,2016
+15,Not defined,Dysprosium,2.8,2013
+66,Not defined,Dysprosium,18,2011
+52,Not defined,Dysprosium,33,2013
+17,Not defined,Dysprosium,42,2013
+44,Not defined,Dysprosium,10,2014
+44,Not defined,Dysprosium,13.33,2014
+46,Not defined,Dysprosium,50,2010
+46,Not defined,Dysprosium,17,2010
+46,Not defined,Dysprosium,3,2010
+46,Not defined,Dysprosium,39,2020
+46,Not defined,Dysprosium,13,2020
+46,Not defined,Dysprosium,2,2020
+46,Not defined,Dysprosium,28,2040
+46,Not defined,Dysprosium,10,2040
+46,Not defined,Dysprosium,1,2040
+80,Not defined,Dysprosium,14,2050
+80,Not defined,Dysprosium,20.3,2017
+80,Not defined,Dysprosium,20,2014
+80,Not defined,Dysprosium,11,2013
+80,Not defined,Dysprosium,22,2011
+80,Not defined,Dysprosium,33,2011
+80,Not defined,Dysprosium,24,2013
+80,Not defined,Dysprosium,29,2013
+80,Not defined,Dysprosium,12,2016
+80,Not defined,Dysprosium,30,2016
+86,Not defined,Dysprosium,4.8,2013
+78,Not defined,Manganese,33,2017
+78,Not defined,Manganese,81,2013
+78,Not defined,Manganese,57,2019
+15,Not defined,Molybdenum,136.6,2013
+78,Not defined,Molybdenum,116,2017
+78,Not defined,Molybdenum,136,2013
+78,Not defined,Molybdenum,75.3,2015
+78,Not defined,Molybdenum,335,2019
+15,Not defined,Neodymium,40.6,2013
+66,Not defined,Neodymium,43.2,2011
+52,Not defined,Neodymium,186,2011
+17,Not defined,Neodymium,203,2013
+44,Not defined,Neodymium,200,2014
+44,Not defined,Neodymium,203.33,2014
+46,Not defined,Neodymium,310,2010
+46,Not defined,Neodymium,166,2010
+46,Not defined,Neodymium,56,2010
+46,Not defined,Neodymium,244,2020
+46,Not defined,Neodymium,127,2020
+46,Not defined,Neodymium,38,2020
+46,Not defined,Neodymium,174,2040
+46,Not defined,Neodymium,92,2040
+46,Not defined,Neodymium,28,2040
+80,Not defined,Neodymium,119,2050
+80,Not defined,Neodymium,170.4,2017
+80,Not defined,Neodymium,176,2014
+80,Not defined,Neodymium,162,2013
+80,Not defined,Neodymium,164,2013
+80,Not defined,Neodymium,166,2013
+80,Not defined,Neodymium,124,2011
+80,Not defined,Neodymium,186,2011
+80,Not defined,Neodymium,216,2011
+80,Not defined,Neodymium,180,2013
+80,Not defined,Neodymium,198,2013
+80,Not defined,Neodymium,116,2010
+80,Not defined,Neodymium,186,2010
+86,Not defined,Neodymium,27,2013
+15,Not defined,Nickel,663.4,2013
+78,Not defined,Nickel,557,2017
+78,Not defined,Nickel,663,2013
+78,Not defined,Nickel,111,2013
+78,Not defined,Nickel,377,2015
+78,Not defined,Nickel,427,2019
+78,Not defined,Niobium,38,2015
+46,Not defined,Praseodymium,2.0-50,2016
+1,Not defined,Steel,1000,2010
+52,Not defined,Steel,140000,2010
+67,Not defined,Steel,103000,2011
+46,Not defined,Terbium,1.003,2016
+78,Not defined,Tin,90,2015
+78,Not defined,Zinc,5150,2017
+78,Not defined,Zinc,5170,2017
+78,Not defined,Zinc,5450,2019
+134,Offshore,Steel,156000-210000,2010
+134,Offshore,Copper,2000-4800,2010
+134,Offshore,Aluminum,700-3100,2010
+134,Onshore,Steel,105000-160000,2010
+134,Onshore,Copper,1800-3700,2010
+134,Onshore,Aluminum,700-3100,2010
+140,Offshore,Aluminum,9400,2019
+140,Offshore,Steel,400000,2019
+140,Offshore,Copper,22200,2019
+140,Onshore,Steel,148000,2019
+11,Not defined,Copper,2700,2012
+11,Not defined,Copper,1850,2012
+11,Not defined,Neodymium,48,2010
+13,Onshore,Dysprosium,22,2010
+13,Onshore,Lead,6720,2000
+13,Offshore,Steel,132000,2012
+13,Offshore,Aluminum,370,2012
+13,Offshore,Copper,10000,2012
+19,Offshore,Copper,2520,2013
+19,Offshore,Copper,3057,2013
+19,Offshore,Copper,892,2013
+19,Offshore,Copper,1067,2013
+19,Offshore,Copper,2440,2013
+19,Offshore,Copper,2514,2013
+19,Offshore,Copper,1567,2013
+19,Offshore,Copper,1571,2013
+19,Offshore,Copper,5560,2013
+19,Offshore,Copper,5643,2013
+19,Offshore,Copper,4917,2013
+19,Offshore,Copper,4896,2013
+19,Onshore,Copper,2242,2013
+19,Onshore,Copper,2478,2013
+19,Onshore,Copper,2333,2013
+19,Onshore,Copper,2733,2013
+19,Onshore,Copper,2520,2013
+19,Onshore,Copper,2500,2013
+19,Onshore,Copper,4800,2013
+19,Onshore,Copper,4609,2013
+19,Onshore,Copper,5067,2013
+45,Onshore,Copper,4000,2016
+45,Not defined,Copper,1143,2013
+45,Not defined,Dysprosium,44117,2016
+45,Not defined,Neodymium,140-187,2016
+63,Not defined,Neodymium,186,2013
+63,Not defined,Neodymium,124,2013
+63,Not defined,Dysprosium,33,2013
+63,Not defined,Dysprosium,22,2013

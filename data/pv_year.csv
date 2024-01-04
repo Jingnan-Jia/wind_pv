@@ -1,0 +1,601 @@
+Number,Technology,Material,Intensity,Year
+78,CIGS,Gallium,5,2000
+78,CIGS,Indium,27,2000
+78,CIGS,Selenium,45,2000
+66,a-Si,Germanium,6.9,2000
+66,CdTe,Cadmium,63.3,2000
+78,CdTe,Cadmium,63,2000
+78,CdTe,Tellurium,63,2000
+99,CIGS,Indium,25,2000
+99,CIGS,Indium,30,2000
+99,CIGS,Indium,40,2000
+103,Not defined,Tellurium,100,2005
+103,CdTe,Tellurium,260,2007
+103,CdTe,Tellurium,500,2007
+38,CIGS,Indium,6.3,2008
+38,CIGS,Indium,8,2008
+38,CIGS,Indium,11,2008
+110=85,CIGS,Indium,83,2008
+110=85,a-Si,Germanium,73,2008
+110=85,CdTe,Tellurium,176,2008
+85,CdTe,Tellurium,176,2008
+85,CIGS,Indium,83,2008
+85,a-Si,Germanium,73,2008
+66,a-Si,Germanium,42,2009
+66,CdTe,Tellurium,55,2009
+46,CIGS,Gallium,6,2010
+46,CIGS,Gallium,8,2010
+46,CIGS,Gallium,11,2010
+78,CIGS,Gallium,8,2010
+46,CIGS,Indium,23,2010
+46,CIGS,Indium,29,2010
+46,CIGS,Indium,43,2010
+78,CIGS,Indium,23,2010
+129,CIGS,Indium,83,2010
+46,CIGS,Selenium,48,2010
+46,CIGS,Selenium,67,2010
+46,CIGS,Selenium,107,2010
+78,CIGS,Selenium,45,2010
+46,a-Si,Germanium,73,2010
+129,a-Si,Germanium,73,2010
+67,CdTe,Cadmium,85,2010
+66,CdTe,Cadmium,85,2010
+46,CdTe,Cadmium,79,2010
+46,CdTe,Cadmium,89,2010
+46,CdTe,Cadmium,116,2010
+78,CdTe,Cadmium,85,2010
+66,CdTe,Copper,42.8,2010
+67,CdTe,Tellurium,97.5,2010
+66,CdTe,Tellurium,97.5,2010
+46,CdTe,Tellurium,89,2010
+46,CdTe,Tellurium,101,2010
+46,CdTe,Tellurium,132,2010
+78,CdTe,Tellurium,98,2010
+103,CdTe,Tellurium,120,2010
+129,CdTe,Tellurium,106,2010
+52,c-Si,Silver,84,2010
+78,Not defined,Aluminum,23000,2010
+78,Not defined,Aluminum,32000,2010
+78,Not defined,Aluminum,59000,2010
+67,Not defined,Aluminum,32000,2010
+99,CIGS,Indium,24.1,2010
+99,CIGS,Indium,29,2010
+99,CIGS,Indium,39.1,2010
+45,CIGS,Indium,83,2010
+77,CIGS,Gadium,2.3-19.7,2011
+35,CIGS,Gallium,7.2,2011
+78,CIGS,Gallium,12,2011
+78,CIGS,Gallium,29,2011
+35,CIGS,Indium,55.5,2011
+78,CIGS,Indium,15,2011
+78,CIGS,Indium,23,2011
+66,a-Si,Germanium,3.4,2011
+66,CdTe,Cadmium,49.2,2011
+35,CdTe,Indium,15.5,2011
+66,CdTe,Molybdenum,100.5,2011
+35,CdTe,Tellurium,99.7,2011
+66,CdTe,Tellurium,47.2,2011
+78,CdTe,Tellurium,17,2011
+78,CdTe,Tellurium,74,2011
+66,CdTe,Tin,6.6,2011
+103,Not defined,Tellurium,91,2011
+67,CIGS,Gallium,7.5,2012
+78,CIGS,Gallium,8,2012
+67,CIGS,Indium,23,2012
+78,CIGS,Indium,83,2012
+78,CIGS,Indium,23,2012
+78,CdTe,Tellurium,106,2012
+78,CdTe,Tellurium,69,2012
+59,c-Si,Silver,10,2012
+35,CIGS,Cadmium,1.3,2013
+15,CIGS,Copper,21.02,2013
+15,CIGS,Gadium,2.34,2013
+78,CIGS,Gallium,0.12,2013
+86,CIGS,Gallium,4.0-20,2013
+86,CIGS,Gallium,6.7,2013
+15,CIGS,Indium,18.99,2013
+15,CIGS,Indium,9.56,2013
+78,CIGS,Indium,5,2013
+86,CIGS,Indium,16.5-110,2013
+86,CIGS,Indium,16.3,2013
+35,CIGS,Selenium,39.3,2013
+122,CIGS,Gallium,7.5,2013
+122,CIGS,Gallium,2.34,2013
+122,CIGS,Selenium,45,2013
+122,CIGS,Selenium,9.56,2013
+122,CIGS,Indium,22.5,2013
+122,CIGS,Indium,18.99,2013
+77,a-Si,Germanium,73,2013
+66,a-Si,Germanium,6.9,2013
+15,a-Si,Indium,5.32,2013
+15,a-Si,Tin,0.714,2013
+35,CdTe,Cadmium,116.7,2013
+66,CdTe,Cadmium,63.3,2013
+78,CdTe,Cadmium,6,2013
+78,CdTe,Copper,1000,2013
+78,CdTe,Copper,5181,2013
+66,CdTe,Indium,15.9,2013
+66,CdTe,Tellurium,61.9,2013
+122,CdTe,Tellurium,97.5,2013
+122,CdTe,Cadmium,85,2013
+15,c-Si,Aluminum,10953,2013
+15,c-Si,Copper,2741,2013
+78,c-Si,Copper,300,2013
+15,c-Si,Lead,336,2013
+15,c-Si,Magnesium,53.5,2013
+78,c-Si,Nickel,1.1,2013
+15,c-Si,Silicon,3653,2013
+78,c-Si,Silicon,3653,2013
+15,c-Si,Silver,24,2013
+78,c-Si,Silver,19,2013
+78,c-Si,Silver,10,2013
+78,c-Si,Silver,20,2013
+15,c-Si,Tin,577,2013
+78,Not defined,Aluminum,20000,2013
+15,Not defined,Cadmium,6.1,2013
+15,Not defined,Copper,2194.1,2013
+78,Not defined,Copper,2000,2013
+78,Not defined,Copper,2194,2013
+78,Not defined,Copper,7598,2013
+15,Not defined,Gadium,0.12,2013
+15,Not defined,Indium,4.5,2013
+15,Not defined,Selenium,0.5,2013
+15,Not defined,Silver,19.2,2013
+67,Not defined,Steel,1100000,2013
+78,Not defined,Steel ,1200000,2013
+15,Not defined,Tellurium,4.7,2013
+15,Not defined,Tin,463.1,2013
+78,Not defined,Tin,463,2013
+78,Not defined,Tin,200,2013
+45,CdTe,Tellurium,69,2013
+50,CIGS,Gallium,9,2014
+50,CIGS,Indium,28,2014
+78,CIGS,Indium,23,2014
+78,CIGS,Indium,28,2014
+78,CIGS,Indium,38,2014
+50,CIGS,Selenium,161,2014
+50,CdTe,Cadmium,138,2014
+50,CdTe,Tellurium,156,2014
+78,c-Si,Silver,80,2014
+67,Not defined,Silver,80,2014
+50,c-Si,Silver,35.6,2014
+50,c-Si,Silicon,6629,2014
+50,CdTe,Cadmium,138,2014
+50,CdTe,Tellurium,156,2014
+50,CIGS,Indium,28,2014
+50,CIGS,Gallium,9,2014
+50,CIGS,Selenium,161,2014
+84,CIGS,Cadmium,265,2015
+52,CIGS,Gallium,9,2015
+63,CIGS,Gallium,2,2015
+63,CIGS,Gallium,9,2015
+78,CIGS,Gallium,2,2015
+78,CIGS,Gallium,4,2015
+78,CIGS,Gallium,9,2015
+78,CIGS,Gallium,124,2015
+84,CIGS,Gallium,124,2015
+102,CIGS,Gallium,2,2015
+102,CIGS,Gallium,4,2015
+102,CIGS,Gallium,9,2015
+52,CIGS,Indium,28,2015
+63,CIGS,Indium,7,2015
+63,CIGS,Indium,28,2015
+102,CIGS,Indium,10.0-30,2015
+78,CIGS,Indium,7,2015
+78,CIGS,Indium,13,2015
+78,CIGS,Indium,28,2015
+78,CIGS,Indium,55,2015
+84,CIGS,Indium,55,2015
+102,CIGS,Indium,28,2015
+102,CIGS,Indium,13,2015
+102,CIGS,Indium,7,2015
+78,CIGS,Molybdenum,1,2015
+84,CIGS,Molybdenum,109,2015
+52,CIGS,Selenium,161,2015
+63,CIGS,Selenium,17,2015
+63,CIGS,Selenium,161,2015
+102,CIGS,Selenium,20-160,2015
+78,CIGS,Selenium,17,2015
+78,CIGS,Selenium,41,2015
+78,CIGS,Selenium,161,2015
+78,CIGS,Selenium,110,2015
+84,CIGS,Selenium,110,2015
+102,CIGS,Selenium,17,2015
+102,CIGS,Selenium,41,2015
+102,CIGS,Selenium,161,2015
+84,CIGS,Zinc,121,2015
+84,a-Si,Cadmium,6.61,2015
+84,a-Si,Chromium,634,2015
+35,a-Si,Indium,4,2015
+84,a-Si,Indium,13.41,2015
+84,a-Si,Molybdenum,10.62,2015
+84,a-Si,Nickel,334,2015
+84,a-Si,Tellurium,7.8,2015
+84,a-Si,Tin,143.21,2015
+52,CdTe,Cadmium,138,2015
+63,CdTe,Cadmium,17,2015
+63,CdTe,Cadmium,138,2015
+102,CdTe,Cadmium,20-140,2015
+84,CdTe,Cadmium,244.26,2015
+102,CdTe,Cadmium,17,2015
+102,CdTe,Cadmium,62,2015
+102,CdTe,Cadmium,138,2015
+78,CdTe,Cadmium,138,2015
+78,CdTe,Cadmium,62,2015
+78,CdTe,Cadmium,17,2015
+84,CdTe,Chromium,61,2015
+78,CdTe,Lead,8,2015
+84,CdTe,Lead,7.8,2015
+78,CdTe,Molybdenum,109,2015
+84,CdTe,Molybdenum,0.5,2015
+52,CdTe,Tellurium,156,2015
+63,CdTe,Tellurium,19,2015
+63,CdTe,Tellurium,156,2015
+102,CdTe,Tellurium,20-160,2015
+78,CdTe,Tellurium,19,2015
+78,CdTe,Tellurium,70,2015
+78,CdTe,Tellurium,156,2015
+78,CdTe,Tellurium,243,2015
+84,CdTe,Tellurium,242.87,2015
+102,CdTe,Tellurium,19,2015
+102,CdTe,Tellurium,70,2015
+102,CdTe,Tellurium,156,2015
+78,c-Si,Lead,6,2015
+84,c-Si,Lead,5.53,2015
+84,c-Si,Lead,6.32,2015
+78,c-Si,Nickel,1.3,2015
+84,c-Si,Nickel,1.3,2015
+52,c-Si,Silicon,6630,2015
+102,c-Si,Silicon,640-6630,2015
+78,c-Si,Silicon,6630,2015
+102,c-Si,Silicon,638,2015
+102,c-Si,Silicon,2882,2015
+102,c-Si,Silicon,6629,2015
+52,c-Si,Silver,36,2015
+63,c-Si,Silver,19,2015
+64,c-Si,Silver,36,2015
+78,c-Si,Silver,4,2015
+78,c-Si,Silver,47,2015
+78,c-Si,Silver,57,2015
+78,c-Si,Silver,17,2015
+84,c-Si,Silver,59,2015
+84,c-Si,Silver,68.17,2015
+78,Not defined,Chromium,61,2015
+78,Not defined,Molybdenum,200,2015
+78,Not defined,Vanadium,2,2015
+78,Not defined,Zinc,16,2015
+78,Not defined,Zinc,121,2015
+78,Not defined,Zinc,1400,2015
+99,CIGS,Indium,22.6,2015
+99,CIGS,Indium,27.5,2015
+99,CIGS,Indium,37.6,2015
+78,CIGS,Indium,23,2016
+67,CIGS,Selenium,45,2016
+78,CIGS,Selenium,45,2016
+78,CdTe,Tellurium,98,2016
+78,c-Si,Copper,250,2016
+78,Not defined,Chromium,3700,2016
+78,Not defined,Copper,4000,2016
+78,Not defined,Copper,5400,2016
+45,CIGS,Indium,22.5,2016
+45,CIGS,Copper,250,2016
+45,CdTe,Tellurium,97.5,2016
+78,CIGS,Copper,17,2017
+78,CIGS,Copper,450,2017
+78,CIGS,Gallium,6,2017
+78,CIGS,Indium,84,2017
+78,CIGS,Selenium,84,2017
+78,CdTe,Cadmium,84,2017
+78,CdTe,Tellurium,90,2017
+78,c-Si,Lead,72,2017
+78,c-Si,Silver,5,2017
+94,Not defined,Silver,36,2017
+78,Not defined,Zinc,30,2017
+138,CIGS,Indium,23,2017
+138,CIGS,Gallium,5,2017
+138,CIGS,Selenium,45,2017
+138,CdTe,Cadmium,63,2017
+138,CdTe,Tellurium,47,2017
+59,CIGS,Copper,450,2018
+59,CIGS,Gallium,4,2018
+59,CIGS,Indium,13,2018
+59,a-Si,Copper,1005,2018
+66,a-Si,Germanium,14.8,2018
+59,a-Si,Indium,5.32,2018
+66,CdTe,Cadmium,65.2,2018
+59,CdTe,Copper,5181,2018
+59,CdTe,Tellurium,70,2018
+66,CdTe,Tellurium,65.4,2018
+59,c-Si,Copper,884,2018
+78,c-Si,Silicon,9000,2018
+117,c-Si,Silver,54.8125,2018
+117,c-Si,Silver,21.925-54.8125,2018
+117,c-Si,Silver,10.25-54.8125,2018
+117,c-Si,Silver,4.1-54.8125,2018
+67,Not defined,Copper,4000,2018
+78,CIGS,Copper,233,2019
+84,CIGS,Copper,450,2019
+77,CIGS,Gadium,10,2019
+70,CIGS,Gallium,7.5,2019
+78,CIGS,Gallium,19,2019
+77,CIGS,Indium,13,2019
+70,CIGS,Indium,23,2019
+78,CIGS,Indium,31,2019
+70,CIGS,Selenium,45,2019
+78,CIGS,Selenium,61,2019
+84,a-Si,Copper,100.5,2019
+70,a-Si,Germanium,73,2019
+70,CdTe,Cadmium,85,2019
+78,CdTe,Cadmium,244,2019
+78,CdTe,Cadmium,87,2019
+78,CdTe,Copper,3091,2019
+84,CdTe,Copper,518.07,2019
+78,CdTe,Nickel,16,2019
+70,CdTe,Tellurium,97.5,2019
+78,CdTe,Tellurium,92,2019
+78,c-Si,Copper,825,2019
+78,c-Si,Copper,458,2019
+84,c-Si,Copper,825,2019
+84,c-Si,Copper,943,2019
+78,c-Si,Lead,39,2019
+78,c-Si,Nickel,1,2019
+78,c-Si,Silicon,6428,2019
+70,c-Si,Silver,80,2019
+78,c-Si,Silver,36,2019
+78,c-Si,Silver,30,2019
+69,Not defined,Aluminum,10000,2019
+69,Not defined,Aluminum,31000,2019
+69,Not defined,Aluminum,60000,2019
+69,Not defined,Aluminum,133000,2019
+69,Not defined,Aluminum,6000,2019
+69,Not defined,Aluminum,13000,2019
+69,Not defined,Aluminum,60000,2019
+69,Not defined,Aluminum,97000,2019
+78,Not defined,Aluminum,33500,2019
+78,Not defined,Chromium,1880,2019
+69,Not defined,Copper,2000,2019
+69,Not defined,Copper,8000,2019
+69,Not defined,Copper,10000,2019
+78,Not defined,Copper,1400,2019
+78,Not defined,Copper,3765,2019
+78,Not defined,Molybdenum,200,2019
+78,Not defined,Nickel,1800,2019
+78,Not defined,Nickel,1800,2019
+69,Not defined,Steel,16000,2019
+69,Not defined,Steel,45000,2019
+69,Not defined,Steel,130000,2019
+69,Not defined,Steel,166000,2019
+78,Not defined,Tin,332,2019
+78,Not defined,Zinc,56,2019
+134,Not defined,Steel,8000-64000,2019
+134,Not defined,Aluminum,13000-60000,2019
+134,Not defined,Copper,0-6000,2019
+134,Not defined,Steel,45000-130000,2019
+134,Not defined,Aluminum,31000-60000,2019
+134,Not defined,Copper,2000-8000,2019
+140,Not defined,Selenium,3200,2019
+140,Not defined,Steel,164500,2019
+140,Not defined,Aluminum,16000,2019
+46,CIGS,Gallium,2,2020
+46,CIGS,Gallium,3,2020
+46,CIGS,Gallium,6,2020
+110=85,CIGS,Indium,11.0-20,2020
+46,CIGS,Indium,8,2020
+46,CIGS,Indium,12,2020
+46,CIGS,Indium,22,2020
+129,CIGS,Indium,11.0-20,2020
+46,CIGS,Selenium,15,2020
+46,CIGS,Selenium,26,2020
+46,CIGS,Selenium,51,2020
+110=85,a-Si,Germanium,36-48,2020
+46,a-Si,Germanium,36,2020
+46,a-Si,Germanium,41,2020
+46,a-Si,Germanium,48,2020
+129,a-Si,Germanium,36-48,2020
+46,CdTe,Cadmium,21,2020
+46,CdTe,Cadmium,36,2020
+46,CdTe,Cadmium,77,2020
+110=85,CdTe,Tellurium,30-80,2020
+46,CdTe,Tellurium,23,2020
+46,CdTe,Tellurium,41,2020
+46,CdTe,Tellurium,87,2020
+129,CdTe,Tellurium,38-74,2020
+46,c-Si,Silver,13,2020
+46,c-Si,Silver,15,2020
+46,c-Si,Silver,18,2020
+138,CIGS,Indium,12,2020
+138,CIGS,Gallium,3,2020
+138,CIGS,Selenium,26,2020
+138,CdTe,Cadmium,53,2020
+138,CdTe,Tellurium,41,2020
+99,CIGS,Indium,19.6,2020
+99,CIGS,Indium,24.4,2020
+99,CIGS,Indium,34.6,2020
+45,CIGS,Indium,44155,2020
+85,CdTe,Tellurium,30-80,2020
+85,CIGS,Indium,44155,2020
+85,a-Si,Germanium,36-48,2020
+7,CdTe,Tellurium,130,2021
+35,CIGS,Cadmium,1.3,2025
+35,CIGS,Gallium,3.2,2025
+35,CIGS,Indium,45,2025
+35,CIGS,Selenium,17.4,2025
+35,CdTe,Cadmium,63.8,2025
+35,CdTe,Indium,15.5,2025
+35,CdTe,Tellurium,43.1,2025
+138,CIGS,Indium,10,2025
+138,CIGS,Gallium,2.7,2025
+138,CIGS,Selenium,22,2025
+138,CdTe,Cadmium,40,2025
+138,CdTe,Tellurium,34,2025
+99,CIGS,Indium,15,2025
+99,CIGS,Indium,19.5,2025
+99,CIGS,Indium,30,2025
+50,c-Si,Silver,11,2025
+70,CIGS,Gallium,3,2030
+70,CIGS,Indium,11,2030
+70,CIGS,Selenium,23,2030
+70,a-Si,Germanium,35,2030
+70,CdTe,Cadmium,31,2030
+70,CdTe,Tellurium,35,2030
+70,c-Si,Silver,10,2030
+138,CIGS,Indium,9,2030
+138,CIGS,Gallium,2.5,2030
+138,CIGS,Selenium,19,2030
+138,CdTe,Cadmium,30,2030
+138,CdTe,Tellurium,29,2030
+99,CIGS,Indium,10.4,2030
+99,CIGS,Indium,14.6,2030
+99,CIGS,Indium,25.4,2030
+46,CIGS,Gallium,1,2040
+46,CIGS,Gallium,2,2040
+46,CIGS,Gallium,3,2040
+46,CIGS,Indium,6,2040
+46,CIGS,Indium,7,2040
+46,CIGS,Indium,12,2040
+46,CIGS,Selenium,11,2040
+46,CIGS,Selenium,14,2040
+46,CIGS,Selenium,25,2040
+46,a-Si,Germanium,14,2040
+46,a-Si,Germanium,19,2040
+46,a-Si,Germanium,24,2040
+46,CdTe,Cadmium,12,2040
+46,CdTe,Cadmium,17,2040
+46,CdTe,Cadmium,44,2040
+46,CdTe,Tellurium,14,2040
+46,CdTe,Tellurium,20,2040
+46,CdTe,Tellurium,50,2040
+46,c-Si,Silver,1,2040
+46,c-Si,Silver,2,2040
+46,c-Si,Silver,6,2040
+138,CIGS,Indium,7,2040
+138,CIGS,Gallium,2,2040
+138,CIGS,Selenium,14,2040
+138,CdTe,Cadmium,17,2040
+138,CdTe,Tellurium,20,2040
+99,CIGS,Indium,5.9,2040
+99,CIGS,Indium,10,2040
+99,CIGS,Indium,20.9,2040
+35,CIGS,Gallium,1.2,2050
+70,CIGS,Gallium,1,2050
+35,CIGS,Indium,3,2050
+70,CIGS,Indium,6,2050
+35,CIGS,Selenium,6.3,2050
+70,CIGS,Selenium,11,2050
+70,a-Si,Germanium,14,2050
+35,CdTe,Cadmium,33,2050
+70,CdTe,Cadmium,12,2050
+35,CdTe,Tellurium,35.3,2050
+70,CdTe,Tellurium,14,2050
+70,c-Si,Silver,1,2050
+138,CIGS,Indium,7,2050
+138,CIGS,Gallium,2,2050
+138,CIGS,Selenium,14,2050
+138,CdTe,Cadmium,17,2050
+138,CdTe,Tellurium,20,2050
+99,CIGS,Indium,5,2050
+99,CIGS,Indium,9,2050
+99,CIGS,Indium,20,2050
+JRC,Not defined,Copper,4600,2018
+JRC,Not defined,Copper,4300,2030
+JRC,Not defined,Copper,4500,2030
+JRC,Not defined,Copper,4600,2030
+JRC,Not defined,Copper,3700,2050
+JRC,Not defined,Copper,4200,2050
+JRC,Not defined,Copper,4600,2050
+JRC,Not defined,Steel,67900,2018
+JRC,Not defined,Steel,62800,2030
+JRC,Not defined,Steel,65300,2030
+JRC,Not defined,Steel,67900,2030
+JRC,Not defined,Steel,54300,2050
+JRC,Not defined,Steel,61100,2050
+JRC,Not defined,Steel,67900,2050
+JRC,Not defined,Aluminum,7500,2018
+JRC,Not defined,Aluminum,6900,2030
+JRC,Not defined,Aluminum,7200,2030
+JRC,Not defined,Aluminum,7500,2030
+JRC,Not defined,Aluminum,6000,2050
+JRC,Not defined,Aluminum,6800,2050
+JRC,Not defined,Aluminum,7500,2050
+JRC,CIGS,Copper,20,2018
+JRC,CIGS,Copper,22,2018
+JRC,CIGS,Copper,24,2018
+JRC,CIGS,Copper,12.5,2030
+JRC,CIGS,Copper,15,2030
+JRC,CIGS,Copper,17.5,2030
+JRC,CIGS,Copper,6,2050
+JRC,CIGS,Copper,10.5,2050
+JRC,CIGS,Copper,15,2050
+JRC,CIGS,Indium,10,2018
+JRC,CIGS,Indium,15,2018
+JRC,CIGS,Indium,27,2018
+JRC,CIGS,Indium,8,2030
+JRC,CIGS,Indium,10,2030
+JRC,CIGS,Indium,17,2030
+JRC,CIGS,Indium,5,2050
+JRC,CIGS,Indium,6,2050
+JRC,CIGS,Indium,10,2050
+JRC,CIGS,Gallium,3,2018
+JRC,CIGS,Gallium,4,2018
+JRC,CIGS,Gallium,7,2018
+JRC,CIGS,Gallium,2,2030
+JRC,CIGS,Gallium,2.5,2030
+JRC,CIGS,Gallium,4.5,2030
+JRC,CIGS,Gallium,1,2050
+JRC,CIGS,Gallium,1.5,2050
+JRC,CIGS,Gallium,2.5,2050
+JRC,CIGS,Selenium,22,2018
+JRC,CIGS,Selenium,35,2018
+JRC,CIGS,Selenium,60,2018
+JRC,CIGS,Selenium,17,2030
+JRC,CIGS,Selenium,20,2030
+JRC,CIGS,Selenium,40,2030
+JRC,CIGS,Selenium,9,2050
+JRC,CIGS,Selenium,12,2050
+JRC,CIGS,Selenium,20,2050
+JRC,a-Si,Silicon,150,2018
+JRC,a-Si,Silicon,75,2030
+JRC,a-Si,Silicon,100,2030
+JRC,a-Si,Silicon,130,2030
+JRC,a-Si,Silicon,40,2050
+JRC,a-Si,Silicon,75,2050
+JRC,a-Si,Silicon,110,2050
+JRC,a-Si,Germanium,48,2018
+JRC,a-Si,Germanium,22,2030
+JRC,a-Si,Germanium,27,2030
+JRC,a-Si,Germanium,32,2030
+JRC,a-Si,Germanium,10,2050
+JRC,a-Si,Germanium,15,2050
+JRC,a-Si,Germanium,20,2050
+JRC,CdTe,Cadmium,35,2018
+JRC,CdTe,Cadmium,50,2018
+JRC,CdTe,Cadmium,85,2018
+JRC,CdTe,Cadmium,20,2030
+JRC,CdTe,Cadmium,27,2030
+JRC,CdTe,Cadmium,60,2030
+JRC,CdTe,Cadmium,10,2050
+JRC,CdTe,Cadmium,12,2050
+JRC,CdTe,Cadmium,35,2050
+JRC,CdTe,Tellurium,35,2018
+JRC,CdTe,Tellurium,95,2018
+JRC,CdTe,Tellurium,52,2018
+JRC,CdTe,Tellurium,20,2030
+JRC,CdTe,Tellurium,27,2030
+JRC,CdTe,Tellurium,70,2030
+JRC,CdTe,Tellurium,11,2050
+JRC,CdTe,Tellurium,15,2050
+JRC,CdTe,Tellurium,40,2050
+JRC,c-Si,Silicon,4,2018
+JRC,c-Si,Silicon,2,2030
+JRC,c-Si,Silicon,2.75,2030
+JRC,c-Si,Silicon,3.5,2030
+JRC,c-Si,Silicon,1,2050
+JRC,c-Si,Silicon,2,2050
+JRC,c-Si,Silicon,3,2050
+JRC,c-Si,Silver,20,2018
+JRC,c-Si,Silver,4,2030
+JRC,c-Si,Silver,6,2030
+JRC,c-Si,Silver,11,2030
+JRC,c-Si,Silver,1,2050
+JRC,c-Si,Silver,2,2050
+JRC,c-Si,Silver,5,2050
